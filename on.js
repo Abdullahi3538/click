@@ -10,6 +10,16 @@ All.style.border="3px solid orange"
 All.style.borderRadius="50%"
 All.style.margin="20px 50px"
 
+btn1.style.background="red"
+btn1.style.padding="5px 15px"
+btn1.style.borderRadius='4px'
+btn1.style.color="white"
+
+btn2.style.background="black"
+btn2.style.padding="5px 15px"
+btn2.style.borderRadius='4px'
+btn2.style.color="white"
+
 btn1.addEventListener("click",()=>{
     All.style.background="red"
     
